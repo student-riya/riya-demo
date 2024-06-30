@@ -1,4 +1,4 @@
 # riya-demo
 This is my first git repository.
 <br>
-Author-Riya Mondal
+Author-Riya (student)
