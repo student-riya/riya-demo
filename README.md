@@ -4,16 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Print Hello </title>
+    <title> Hello World </title>
     
 </head>
 <body>
-    <h1 style="color:red"> Hello World </h1>
+    <h1 style="color:red"> HTML </h1>
     <h2 style="color:blue">Riya</h2>
-    <h3 style="color:brown">Moumita</h3>
-    <h4 style="color:aqua"> Brishti</h4>
-    <h5 style="color:blueviolet">Soumyodipta</h5>
-    <h6 style="color:coral"> Srijani</h6>
     <p> Google was founded on September 4, 1998, by American computer scientists Larry Page
         and Sergey Brin while they were PhD students at Stanford University in California. 
         Together they own about 14% of its publicly listed shares and control 56% of its stockholder 
